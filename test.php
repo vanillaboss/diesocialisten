@@ -1,6 +1,6 @@
 <?php
 
-//step2
+//step3
 echo "test";
     
 }
